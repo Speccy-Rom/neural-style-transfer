@@ -9,3 +9,8 @@ Application implements:
 * Develop a UI with Streamlit
 * Containerize FastAPI and Streamlit with Docker
 * Leverage asyncio to execute code in the background outside the request/response flow
+
+<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_night.jpg" width="300"/>
+<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_28_mine.jpg" width="300"/>
+
+<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_26_mine.jpg" width="300"/>
