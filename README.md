@@ -10,13 +10,6 @@ Application implements:
 * Containerize FastAPI and Streamlit with Docker
 * Leverage asyncio to execute code in the background outside the request/response flow
 
-<div class="col">
-<div class="row">
-<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_night.jpg" width="300"/> 
-<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_28_mine.jpg" width="300"/> 
-<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_26_mine.jpg" width="300"/> 
-</div></div>
-
 #### Tools used
 - FastAPI: for the API
 - streamlit : for the interface
@@ -31,3 +24,11 @@ Application implements:
 ```
 docker-compose up -d
 ```
+
+<div class="col">
+<div class="row">
+<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_28_mine.jpg" width="300"/> 
+<img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_26_mine.jpg" width="300"/> 
+</div>
+</div>
+
