@@ -31,4 +31,3 @@ docker-compose up -d
 <img  src="https://cs.stanford.edu/people/jcjohns/eccv16/style_results/starry_256_26_mine.jpg" width="300"/> 
 </div>
 </div>
-
